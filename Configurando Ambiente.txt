@@ -1,0 +1,5 @@
+1 - instale o node:
+    https://nodejs.org/en/
+
+2 - instale o git:
+    https://git-scm.com/
