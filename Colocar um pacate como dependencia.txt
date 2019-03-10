@@ -1,0 +1,5 @@
+use o comando :
+    npm install --save NOMEDOPACOTE
+
+    ex:
+        npm install --save react-router
